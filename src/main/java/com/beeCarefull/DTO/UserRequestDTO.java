@@ -1,4 +1,4 @@
-package com.beeCarefull.requestDTO;
+package com.beeCarefull.DTO;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
